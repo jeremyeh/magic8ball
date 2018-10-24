@@ -13,7 +13,7 @@ while ans:
         sys.exit()
     
     elif answers == 1:
-        print ("It is certain")
+        print ("It is certain.")
     
     elif answers == 2:
         print ("Outlook good")
