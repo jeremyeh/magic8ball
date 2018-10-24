@@ -1,5 +1,5 @@
 # Import the modules
-import sys
+ximport sys
 import random
 
 ans = True
