@@ -1,7 +1,9 @@
 # Import the modules
 import sys
 import random
-
+import sys
+if sys.version_info[0] < 3:
+    raise Exception("Must be using Python 3")
 ans = True
 
 while ans:
