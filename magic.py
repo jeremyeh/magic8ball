@@ -7,7 +7,7 @@ if sys.version_info[0] < 3:
 ans = True
 
 while ans:
-    question = raw_input("Ask the magic 8 ball a question: (press enter to quit) ")
+    question = input("Ask the magic 8 ball a question: (press enter to quit) ")
 	
     answers = random.randint(1,8)
     
