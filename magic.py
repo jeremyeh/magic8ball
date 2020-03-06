@@ -1,5 +1,5 @@
 # Import the modules
-iiiimport sys
+import sys
 import random
 import sys
 if sys.version_info[0] < 3:
