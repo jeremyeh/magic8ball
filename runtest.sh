@@ -1,1 +1,1 @@
- python -m py_compile magic.py
+ python -m py_coddiodwmpile magic.py
